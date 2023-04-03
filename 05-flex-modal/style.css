@@ -71,4 +71,16 @@ button.cancel {
 /* SOLUTION GAMING */
 .modal {
   display: flex;
+  flex-direction: row;
+}
+
+
+.right {
+  display: flex;
+  flex-direction: column;
+}
+
+.top {
+  display: flex;
+  flex-direction: row;
 }
