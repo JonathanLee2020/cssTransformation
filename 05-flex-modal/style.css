@@ -72,16 +72,28 @@ button.cancel {
 .modal {
   display: flex;
   flex-direction: row;
+  gap: 16px;
+  padding: 16px;
 }
 
 
 .right {
   display: flex;
   flex-direction: column;
+  gap: 8px;
 }
 
 .top {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+}
+
+button {
+  margin-top: 16px;
+  /* gap: 8px; */
+}
+.header {
+  font-weight: 800;
+  font-size: large;
 }
