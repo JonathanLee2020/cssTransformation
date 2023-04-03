@@ -37,9 +37,19 @@ body {
 }
 
 .header, .footer {
-  background-color: #eeeeee;
+  background-color: lightgreen;
   display: flex;
   width: 100vw;
   justify-content: space-between;
+  gap: 16px;
+}
+
+.footer {
+  background-color: #eeeeee;
+
+}
+
+.right-links, .left-links {
+  display: flex;
 }
 
