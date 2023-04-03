@@ -51,4 +51,10 @@ body {
   flex-direction: column;
   width: 200px;
   align-items: center; 
+
+}
+
+.text {
+  text-align: center;
+  margin-top: 5px;
 }
