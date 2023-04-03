@@ -37,7 +37,6 @@ body {
 }
 
 .header, .footer {
-  background-color: lightgreen;
   display: flex;
   width: 100vw;
   justify-content: space-between;
@@ -69,8 +68,18 @@ li {
 .content {
   display: flex;
   flex-direction: column;
-  /* background-color: red; */
   justify-content: center;
   align-items: center;
+}
+
+button {
+  padding: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+a {
+  text-decoration: none;
+  color: grey;
 }
 
