@@ -64,3 +64,11 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+
+
+
+/* SOLUTION GAMING */
+.modal {
+  display: flex;
+}
