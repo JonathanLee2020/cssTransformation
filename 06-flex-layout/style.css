@@ -41,7 +41,6 @@ body {
   display: flex;
   width: 100vw;
   justify-content: space-between;
-  gap: 16px;
 }
 
 .footer {
@@ -51,5 +50,6 @@ body {
 
 .right-links, .left-links {
   display: flex;
+  gap: 16px;
 }
 
