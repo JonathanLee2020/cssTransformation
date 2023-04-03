@@ -46,7 +46,7 @@ body {
   gap: 52px;
 }
 
-img {
-  display: flex
-  flex-direction: table-column;
+.info {
+  display: flex;
+  flex-direction: column;
 }
