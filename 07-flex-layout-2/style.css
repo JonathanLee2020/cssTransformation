@@ -20,6 +20,8 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
+  height: 100%;
+  
 }
 
 .card {
@@ -43,11 +45,6 @@ body {
   flex-grow: 1;
 }
 
-.sidebar {
-  /* height: 100%; */
-  padding: 0;
-  margin: 0;
 
-}
 
 
