@@ -48,17 +48,18 @@ body {
 .right {
   display: flex;
   flex-wrap: wrap;
-  gap: 32px;
 }
 
 .card {
   width: 300px;
+  padding: 32px;
 }
 
 .sidebar {
   height: 100%;
   flex-shrink: 0;
   flex-grow: 1;
+  padding: 16px;
 }
 
 ul {
