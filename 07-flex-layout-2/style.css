@@ -69,19 +69,20 @@ body {
 a {
   text-decoration: none;
   color: white;
+  font-size: 24px;
 }
 
 
 
 ul {
-  text-align: left;
   padding: 0;
+  margin: 0;
 
 }
 
 li {
   list-style-type: none;
-  text
+  margin-bottom: 16px;
 }
 
 
