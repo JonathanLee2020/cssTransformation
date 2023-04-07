@@ -28,6 +28,6 @@ On a smaller screen it will look like this:
 - The sidebar and cards take up all available space above the footer.
 - The sidebar is 300px wide (and it doesn't shrink).
 - The sidebar links are size 24px, are white, and do not have the underline text decoration.
-- The sidebar has 16px padding.
+- The sidebar has 16px .
 - There is 32px padding around the 'cards' section.
 - The cards are arranged horizontally, but wrap to multiple lines when they run out of room on the page.
