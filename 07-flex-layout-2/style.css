@@ -91,7 +91,9 @@ li {
   /* background-color: bisque; */
   display: flex;
   align-items: center;
-  align-items: center;
+  padding-left: 16px;
+  font-size: 32px;
+  font-weight: 900;
 
 }
 
