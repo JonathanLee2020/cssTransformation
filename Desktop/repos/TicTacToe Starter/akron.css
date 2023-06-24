@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+.game__wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+}
+
+.box__wrapper {    
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 24px;
+}
+
+.square {
+    border: solid black 1px;
+    margin: 0;
+    width: calc(500px / 3);
+    height: calc(500px / 3);
+}
+
+.restart {
+    padding: 12px 24px;
+    font-size: 20px;
+  }
